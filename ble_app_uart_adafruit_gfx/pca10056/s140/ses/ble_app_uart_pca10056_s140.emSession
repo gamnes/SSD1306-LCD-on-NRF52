@@ -64,7 +64,7 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="53" y="95" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="765" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="94" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="57" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="99" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/app_error_weak.c" selected="0" top="47" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="38" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../module/ssd1306_driver/SSD1306.h" selected="0" top="20" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="48" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/app_error_handler_gcc.c" selected="0" top="33" codecName="Default"/>
